@@ -5,7 +5,6 @@ import random
 def guessing_game():
     
     n = random.randint(0,100)
-    p = 200
     
     while p!=n:
         
